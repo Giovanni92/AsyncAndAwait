@@ -10,6 +10,8 @@ namespace Async_and_Await
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, I am a newbie but i hope one day I can become a Legend");
+
         }
     }
 }
